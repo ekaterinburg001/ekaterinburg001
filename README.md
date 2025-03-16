@@ -1,4 +1,7 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+CS master's student with a strong focus on embedded systems, security, cryptography, TEE, and full-stack development. Passionate about decentralized technologies, AI, and emerging innovations. BTC/ETH/ADA believer, exploring the future of blockchain and Web3.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaterinburg001)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ekaterinburg001/ekaterinburg001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
