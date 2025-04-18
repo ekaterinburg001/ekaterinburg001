@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-CS master's student specializing in embedded systems security, cryptography, TEE, and full-stack development. Passionate about decentralized technologies, AI, and emerging innovations. BTC/ETH/ADA believer, exploring the future of blockchain and Web3.
+CS master's student specializing in embedded systems security, cryptography, TEE, and full-stack development. Passionate about decentralized technologies, AI, and emerging innovations.
 
 ![ekaterinburg001's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekaterinburg001&show_icons=true&theme=merko)
 
